@@ -1,0 +1,25 @@
+{
+  "name": "transip-haip-switcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magnetme/transip-haip-switcher.git"
+  },
+  "keywords": [
+    "transip"
+  ],
+  "author": "Magnet.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magnetme/transip-haip-switcher/issues"
+  },
+  "homepage": "https://github.com/Magnetme/transip-haip-switcher#readme",
+  "dependencies": {
+    "transip-node": "0.0.2"
+  }
+}
