@@ -5,8 +5,8 @@ RUN touch /opt/privateKey
 
 RUN mkdir /app
 ADD package.json /app
-ADD index.js /app
 RUN cd /app && npm install
+ADD index.js /app
 
 WORKDIR /app
 CMD ["node", "index.js"]
