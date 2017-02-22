@@ -1,4 +1,4 @@
-[![Magnet.me Logo](https://cdn.magnet.me/images/logo-2015-full.svg)](https://magnet.me?ref=github-magnetme "Discover the best companies, jobs and internships at Magnet.me")
+[![Magnet.me Logo](https://cdn.magnet.me/images/logo-2015-full.svg)](https://magnet.me?ref=github-transip-haip-switcher "Discover the best companies, jobs and internships at Magnet.me")
 
 # TransIP HAIP switcher
 
