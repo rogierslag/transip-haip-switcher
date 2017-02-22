@@ -1,3 +1,5 @@
+[![Magnet.me Logo](https://cdn.magnet.me/images/logo-2015-full.svg)](https://magnet.me?ref=github-magnetme "Discover the best companies, jobs and internships at Magnet.me")
+
 # TransIP HAIP switcher
 
 We use the following simple script/Docker container to switch over some of our floating IPS.
