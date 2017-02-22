@@ -1,5 +1,6 @@
 [![Magnet.me Logo](https://cdn.magnet.me/images/logo-2015-full.svg)](https://magnet.me?ref=github-transip-haip-switcher "Discover the best companies, jobs and internships at Magnet.me")
 
+[![GitHub release](https://img.shields.io/github/release/magnetme/transip-haip-switcher.svg)](https://github.com/Magnetme/transip-haip-switcher/releases)
 [![Docker pulls](https://img.shields.io/docker/pulls/magnetme/transip-haip-switcher.svg)](https://hub.docker.com/r/magnetme/transip-haip-switcher/)
 [![Docker build](https://img.shields.io/docker/automated/magnetme/transip-haip-switcher.svg)](https://hub.docker.com/r/magnetme/transip-haip-switcher/)
 [![Code Climate](https://img.shields.io/codeclimate/github/kabisaict/flow.svg)](https://codeclimate.com/github/Magnetme/transip-haip-switcher)
