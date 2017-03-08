@@ -18,6 +18,6 @@ You can use the container like this (assumed the private key is stored in `/tmp/
 	 -v /tmp/privateKey:/opt/privateKey \
 	 -e TRANSIP_USER=magnetme \
 	 -e HAIP_NAME=magnetme-haip \
-	 -e DESTINATION_VPS=magnetme-vps30 
+	 -e DESTINATION_VPS=magnetme-vps69 \
 	 magnetme/transip-haip-switcher
  ```
